@@ -1,2 +1,2 @@
 #!/bin/bash 
-heaad -n 10 /etc/pasawd
+head /etc/passwd

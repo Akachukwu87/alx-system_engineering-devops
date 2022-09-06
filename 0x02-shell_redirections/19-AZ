@@ -1,3 +1,2 @@
 #!/bin/bash
-tr "A" "Z" ltr "C" "e"
-
+tr AcZe
